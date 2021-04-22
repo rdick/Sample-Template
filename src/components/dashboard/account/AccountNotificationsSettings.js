@@ -128,7 +128,7 @@ const AccountNotificationsSettings = (props) => {
                 gutterBottom
                 variant="subtitle2"
               >
-                Chat App
+                Chat Apps
               </Typography>
               <Typography
                 color="textSecondary"
